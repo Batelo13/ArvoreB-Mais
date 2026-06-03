@@ -1,4 +1,4 @@
-# ArvoreB-Mais
+# ArvoreB⁺
 
 Implementação didática de uma **Árvore B⁺** (B Plus Tree) em Java, com foco em
 **inserção**, **remoção** (com empréstimo e fusão de nós), **consulta por
